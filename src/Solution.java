@@ -108,7 +108,6 @@ public class Solution {
         }
         else{
             equal = false;
-            System.out.println("hello");
         }
 
         if(equal == false) {
