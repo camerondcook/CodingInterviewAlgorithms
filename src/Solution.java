@@ -127,7 +127,9 @@ public class Solution {
         }
     }
 
+    static void newMethod(){
 
+    }
 
 
 
