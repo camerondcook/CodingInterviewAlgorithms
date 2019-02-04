@@ -107,7 +107,7 @@ public class Solution {
             }
         }
         else{
-            equal = false;
+
         }
 
         if(equal == false) {
